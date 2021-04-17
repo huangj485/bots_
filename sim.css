@@ -1,0 +1,17 @@
+#header{
+  //font-size: 2em
+}
+
+#table{
+  table-layout: fixed;
+  width: 100%;
+}
+
+td{
+  width: 300px;
+  text-align: center;
+}
+
+#logo_container{
+  font-size: 200%;
+}
